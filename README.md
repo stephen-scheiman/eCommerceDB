@@ -4,7 +4,9 @@
 
 ## Description
 
-This node.js application provides backend database functionality for an eCommerce site. The expressed based API allows the user to view, create, update and delete products, categories and associated product tags.
+This node.js application provides backend database functionality for an eCommerce site. The express-based API allows the user to view, create, update and delete products, categories and associated product tags.
+
+This was an excellent exercise in understanding the Object Relational Model (ORM) and how to knit together databases and API without having to write a lot of SQL.
 
 ## Table of Contents
 
